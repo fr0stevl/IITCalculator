@@ -17,8 +17,8 @@ As a result, the code quality is less than ideal. If I went back and re-wrote th
 Nonetheless, I felt there was value in contributing this to the open source community. I've gained so much from the open source Objective-C community. 
 
 Having reference projects to see how other people build things has been my primary form of learning the language, the frameworks and the design patterns associated with iOS development. Resources like github have been monumental in helping me learn iOS development quickly. 
-You'll notice as you browse through the IITCalculator source code that I'm using a number of open source controls and third-party libraries. 
 
+You'll notice as you browse through the IITCalculator source code that I'm using a number of open source controls and third-party libraries. 
 Building IITCalculator as it exists today wouldn't have been possible without all the great work other developers have done. I hope IITCalculator, too, can serve as a source of sample code for other iOS developers to learn from. 
 
 If you download the app and play with it, you might be interested in how we built out some particular feature. 
