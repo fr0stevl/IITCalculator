@@ -25,6 +25,13 @@ If you download the app and play with it, you might be interested in how we buil
 
 Now with the code open source, you can check out the implementation for yourself. Maybe there are some ideas (or even whole chunks of code!) you can re-use in your own app.
 
+## Third-party Libraries
+*  [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController)
+*	[XYPieChart](https://github.com/xyfeng/XYPieChart)
+*	[SVModalWebViewController](https://github.com/samvermette/SVWebViewController)
+*	[iRate](https://github.com/nicklockwood/iRate)
+*	[ZenKeyboard](https://github.com/nickevin/ZenKeyboard)
+
 ## Issues and Feature Requests
 
 Please report issues via GitHub's issue tracker.
