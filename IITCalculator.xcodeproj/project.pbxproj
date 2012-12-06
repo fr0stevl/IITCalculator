@@ -455,8 +455,6 @@
 				0AD372BA165D195800CAA12C /* City.m */,
 				0AD372BB165D195800CAA12C /* History.h */,
 				0AD372BC165D195800CAA12C /* History.m */,
-				0AD372CF165D195800CAA12C /* HistoryCell.h */,
-				0AD372D0165D195800CAA12C /* HistoryCell.m */,
 				0AD372BD165D195800CAA12C /* IH.h */,
 				0AD372BE165D195800CAA12C /* IH.m */,
 				0AD372BF165D195800CAA12C /* IITCalculator.h */,
@@ -477,6 +475,8 @@
 		0AD372CB165D195800CAA12C /* View */ = {
 			isa = PBXGroup;
 			children = (
+				0AD372CF165D195800CAA12C /* HistoryCell.h */,
+				0AD372D0165D195800CAA12C /* HistoryCell.m */,
 				0AD372F0165D198D00CAA12C /* MainStoryboard.storyboard */,
 			);
 			path = View;
