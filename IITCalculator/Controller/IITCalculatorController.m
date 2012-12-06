@@ -108,7 +108,7 @@
     [self.view addSubview:calcButton];
     
     self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"NavigationMenu"] style:UIBarButtonItemStyleDone target:self action:@selector(presentSettingsController)];
-    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"ClockIcon"] style:UIBarButtonItemStyleDone target:self action:@selector(presentSettingsController)];
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"ClockIcon"] style:UIBarButtonItemStyleDone target:self action:@selector(presentHistoryController)];
     self.navigationItem.backBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"计算器"
                                                                              style:UIBarButtonItemStyleDone
                                                                             target:nil
