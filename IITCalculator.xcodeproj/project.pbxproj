@@ -211,8 +211,8 @@
 		0AD372C8165D195800CAA12C /* TaxRateSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaxRateSheet.m; sourceTree = "<group>"; };
 		0AD372C9165D195800CAA12C /* WebSite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebSite.h; sourceTree = "<group>"; };
 		0AD372CA165D195800CAA12C /* WebSite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebSite.m; sourceTree = "<group>"; };
-		0AD372CF165D195800CAA12C /* HistoryCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HistoryCell.h; sourceTree = "<group>"; };
-		0AD372D0165D195800CAA12C /* HistoryCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HistoryCell.m; sourceTree = "<group>"; };
+		0AD372CF165D195800CAA12C /* HistoryCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HistoryCell.h; path = ../Controller/HistoryCell.h; sourceTree = "<group>"; };
+		0AD372D0165D195800CAA12C /* HistoryCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HistoryCell.m; path = ../Controller/HistoryCell.m; sourceTree = "<group>"; };
 		0AD372D1165D195800CAA12C /* HistoryController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HistoryController.h; sourceTree = "<group>"; };
 		0AD372D2165D195800CAA12C /* HistoryController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HistoryController.m; sourceTree = "<group>"; };
 		0AD372D3165D195800CAA12C /* IITCalculatorController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IITCalculatorController.h; sourceTree = "<group>"; };
@@ -455,6 +455,8 @@
 				0AD372BA165D195800CAA12C /* City.m */,
 				0AD372BB165D195800CAA12C /* History.h */,
 				0AD372BC165D195800CAA12C /* History.m */,
+				0AD372CF165D195800CAA12C /* HistoryCell.h */,
+				0AD372D0165D195800CAA12C /* HistoryCell.m */,
 				0AD372BD165D195800CAA12C /* IH.h */,
 				0AD372BE165D195800CAA12C /* IH.m */,
 				0AD372BF165D195800CAA12C /* IITCalculator.h */,
@@ -485,8 +487,6 @@
 			children = (
 				0AA1489B16621B190050AAFF /* AboutController.h */,
 				0AA1489A16621B190050AAFF /* AboutController.m */,
-				0AD372CF165D195800CAA12C /* HistoryCell.h */,
-				0AD372D0165D195800CAA12C /* HistoryCell.m */,
 				0AD372D1165D195800CAA12C /* HistoryController.h */,
 				0AD372D2165D195800CAA12C /* HistoryController.m */,
 				0AD372D3165D195800CAA12C /* IITCalculatorController.h */,
